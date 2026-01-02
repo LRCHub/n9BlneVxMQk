@@ -1,0 +1,75 @@
+# blues – The moon
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Music & lyrics: john popper
+I ain't no broken-winged bird
+My reams fly high
+And I can't go on a memory
+Can't accept or deny
+I don't really know how to feel
+now
+But I'm getting used to that
+How instantly the feelings
+Never leave and still come back
+And that same old role has been
+played
+And that age old course has
+been laid
+And as usual, I'm afraid
+But by heaven or hell, I will
+not be swayed
+By the light of the moonlight
+serenade
+By the light of the moonlight
+serenade
+I think my heart is a racehorse
+Whenever you're around
+When there's usually a leaf
+It tumbles to the ground
+And I'm looking out my window
+At a brand new day's begin
+A junkie who is hurting
+For seeing you again
+And that same old role has been
+played
+And that age old course has
+been laid
+And as usual, I'm afraid
+But by heaven or hell, I will
+not be swayed
+By the light of the moonlight
+serenade
+By the light of the moonlight
+serenade
+But if it takes till forever
+I will try to understand
+Though I guessed I may never
+These wings won't let me land
+So I still keep on guessing
+Till an instant makes it clear
+This instant I am addressing
+The instant you get here
+I feel your soul coming on
+And soon will fill my mind
+I guess there are feelings
+You just can't leave behind
+The racehorse is off and running
+And headed round the bend
+Though jockey he is fearful
+Saying here we go again
+And that same old role has been
+played
+And that age old course has
+been laid
+And as usual, I'm afraid
+But by heaven or hell, I will
+not be swayed
+By the light of the moonlight
+serenade
+By the light of the moonlight
+serenade
+By the light of the moonlight
+serenade
+```
