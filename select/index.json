@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "The moon",
+  "base_artist": "blues",
+  "createdAt": "2026-01-02T23:11:41.238061Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Temple of the Moon - World of Warcraft",
+      "artist": "Erutan",
+      "has_synced": true,
+      "path": "select/01_Temple_of_the_Moon_-_World_of_Warcraft_Erutan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Buicks to the Moon",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/02_Buicks_to_the_Moon_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Even the Man in the Moon Is Crying",
+      "artist": "Mark Collie",
+      "has_synced": false,
+      "path": "select/03_Even_the_Man_in_the_Moon_Is_Crying_Mark_Collie.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Even The Man In The Moon Is Crying",
+      "artist": "Mark Collie",
+      "has_synced": true,
+      "path": "select/04_Even_The_Man_In_The_Moon_Is_Crying_Mark_Collie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Footprints on the Moon",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/05_Footprints_on_the_Moon_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hypnotize the Moon",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/06_Hypnotize_the_Moon_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hypnotize the Moon (Album Version)",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/07_Hypnotize_the_Moon_(Album_Version)_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Don't Know A Thing About Love - The Moon Song",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/08_I_Don't_Know_A_Thing_About_Love_-_The_Moon_Song_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Don't Know a Thing About Love (The Moon Song)",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/09_I_Don't_Know_a_Thing_About_Love_(The_Moon_Song)_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rope The Moon",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/10_Rope_The_Moon_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rope the Moon (LP Version)",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/11_Rope_the_Moon_(LP_Version)_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shooting at the Moon",
+      "artist": "Mariel Buckley",
+      "has_synced": false,
+      "path": "select/12_Shooting_at_the_Moon_Mariel_Buckley.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shooting at the Moon",
+      "artist": "Mariel Buckley",
+      "has_synced": true,
+      "path": "select/13_Shooting_at_the_Moon_Mariel_Buckley.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Man On The Moon",
+      "artist": "Alan Walker feat. Benjamin Ingrosso",
+      "has_synced": true,
+      "path": "select/14_Man_On_The_Moon_Alan_Walker_feat._Benjamin_Ingrosso.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Man On The Moon",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/15_Man_On_The_Moon_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Moon Over Georgia",
+      "artist": "Shenandoah",
+      "has_synced": true,
+      "path": "select/16_The_Moon_Over_Georgia_Shenandoah.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Moonlight Serenade",
+      "artist": "Blues Traveler",
+      "has_synced": false,
+      "path": "select/pl_01_Moonlight_Serenade_Blues_Traveler.txt"
+    }
+  ]
+}
